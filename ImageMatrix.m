@@ -5,7 +5,7 @@
 clc
 clear all
 close all
-image_name = 'manettino_600.jpg';
+image_name = '600.jpeg';
 vettore=[400:5:800];
 tic
 pos=1;
